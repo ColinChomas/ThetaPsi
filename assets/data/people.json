@@ -1,0 +1,16 @@
+{
+    "executiveCouncil": [
+        {
+            "name": "Munch",
+            "position": "Archon",
+            "email": "Munch@bunchomunch.gov",
+            "photo": "../images/photos/munch.png"
+        },
+        {
+            "name": "Munch",
+            "position": "Vice Archon",
+            "email": "MunchVA@bunchomunch.gov",
+            "photo": "../images/photos/munch.png"
+        }
+    ]
+}
